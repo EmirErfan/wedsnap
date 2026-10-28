@@ -1,0 +1,9 @@
+{
+  "gstack": {
+    "enabled": true,
+    "path": "wedsnap-gstack"
+  },
+  "enabledPlugins": {
+    "ponytail@ponytail": true
+  }
+}

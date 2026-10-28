@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build output
+.next/
+out/
+
+# TypeScript
+*.tsbuildinfo
+
+# Testing / coverage
+.coverage/
+vitest.config.*.cache
+
+# Local database
+*.sqlite
+*.sqlite3
+db.sqlite
+database/*.db
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Temp
+tmp/
+temp/
+*.tmp

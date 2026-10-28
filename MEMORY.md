@@ -1,0 +1,1 @@
+- [Project Setup and Phase 1 Foundation](database/schema.ts) — Hook
