@@ -232,10 +232,6 @@ To test the camera functionality on a phone:
 - **/database**: Database schema and migrations
 - **/tests**: Test files
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
